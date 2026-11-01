@@ -1,0 +1,12 @@
+{
+  "camera_index": 0,
+  "frame_width": 640,
+  "frame_height": 480,
+  "bar_y": 142,
+  "window_x": 100,
+  "window_y": 160,
+  "window_width": 1100,
+  "window_height": 720,
+  "swing_angle_threshold": 5.0,
+  "swing_deviation_ratio": 0.15
+}
